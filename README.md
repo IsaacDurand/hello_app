@@ -3,4 +3,4 @@
 ## "hello, world!"
 
 This is the first application for the [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaehartl.com). Hello, world!
+by [Michael Hartl](http://www.michaelhartl.com). Hello, world!
